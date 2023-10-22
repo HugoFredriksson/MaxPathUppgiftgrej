@@ -1,0 +1,14 @@
+C:\Users\hugof\source\repos\MaxPaths1\MaxPaths1\bin\Debug\net6.0\MaxPaths1.exe
+C:\Users\hugof\source\repos\MaxPaths1\MaxPaths1\bin\Debug\net6.0\MaxPaths1.deps.json
+C:\Users\hugof\source\repos\MaxPaths1\MaxPaths1\bin\Debug\net6.0\MaxPaths1.runtimeconfig.json
+C:\Users\hugof\source\repos\MaxPaths1\MaxPaths1\bin\Debug\net6.0\MaxPaths1.dll
+C:\Users\hugof\source\repos\MaxPaths1\MaxPaths1\bin\Debug\net6.0\MaxPaths1.pdb
+C:\Users\hugof\source\repos\MaxPaths1\MaxPaths1\obj\Debug\net6.0\MaxPaths1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugof\source\repos\MaxPaths1\MaxPaths1\obj\Debug\net6.0\MaxPaths1.AssemblyInfoInputs.cache
+C:\Users\hugof\source\repos\MaxPaths1\MaxPaths1\obj\Debug\net6.0\MaxPaths1.AssemblyInfo.cs
+C:\Users\hugof\source\repos\MaxPaths1\MaxPaths1\obj\Debug\net6.0\MaxPaths1.csproj.CoreCompileInputs.cache
+C:\Users\hugof\source\repos\MaxPaths1\MaxPaths1\obj\Debug\net6.0\MaxPaths1.dll
+C:\Users\hugof\source\repos\MaxPaths1\MaxPaths1\obj\Debug\net6.0\refint\MaxPaths1.dll
+C:\Users\hugof\source\repos\MaxPaths1\MaxPaths1\obj\Debug\net6.0\MaxPaths1.pdb
+C:\Users\hugof\source\repos\MaxPaths1\MaxPaths1\obj\Debug\net6.0\MaxPaths1.genruntimeconfig.cache
+C:\Users\hugof\source\repos\MaxPaths1\MaxPaths1\obj\Debug\net6.0\ref\MaxPaths1.dll
